@@ -1,4 +1,4 @@
-#Eaglercraft 26
+Eaglercraft 26
 A lightweight setup guide to host and run Eaglercraft 26 locally using a Python HTTP server.
 
 Prerequisites
@@ -31,5 +31,3 @@ python -m http.server 8000
 
 Play the Game
 Open your browser and visit:
-
-Plaintext
